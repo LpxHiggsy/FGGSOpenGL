@@ -1,0 +1,23 @@
+﻿Build started 01/05/2015 23:35:45.
+     1>Project "D:\UNI\Fundimentals of game and graphical systems\Semester 2\HelloGL\HelloGL\HelloGL.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\UNI\Fundimentals of game and graphical systems\Semester 2\HelloGL\Debug\HelloGL.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\UNI\Fundimentals of game and graphical systems\Semester 2\HelloGL\Debug\HelloGL.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\UNI\Fundimentals of game and graphical systems\Semester 2\HelloGL\Debug\HelloGL.lib" /MACHINE:X86 Debug\EnemyShip.obj
+         Debug\Linkedlist.obj
+         Debug\Object.obj
+         Debug\GLUTCallbacks.obj
+         Debug\HelloGL.obj
+         Debug\main.obj
+         Debug\MeshLoader.obj
+         Debug\objectcube.obj
+         Debug\planet.obj
+         Debug\Player.obj
+         Debug\RocketObj.obj
+         Debug\Rocks.obj
+         Debug\SceneObject.obj
+         Debug\Texture2D.obj
+         HelloGL.vcxproj -> D:\UNI\Fundimentals of game and graphical systems\Semester 2\HelloGL\Debug\HelloGL.exe
+     1>Done Building Project "D:\UNI\Fundimentals of game and graphical systems\Semester 2\HelloGL\HelloGL\HelloGL.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.52
